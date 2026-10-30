@@ -1,0 +1,46 @@
+{
+  "title": "Humanities Writing Companion: An Agent Skill for Voice-Preserving Humanities Academic Writing",
+  "description": "<p>An agent skill in the open Agent Skills (SKILL.md) format for voice-preserving humanities academic writing. Twelve modes cover research-question development, mapping supplied readings, outlining, drafting, paragraph and chapter review, reviewer stress-testing, writing bottlenecks, revision, promise-delivery checks, factual AI-use disclosure, and integration of external review comments. The compact entrypoint loads detailed discipline and workflow references on demand. Revisions respect the author’s requested scope and existing authorization; reviewer objections are withdrawn when decisive evidence defeats them. Configuration is isolated per paper. Source identity, edition and locator accuracy, and support for a claim are assessed separately. Promise-delivery checks distinguish isolated reviewers from existing conversation context. AI-use disclosure records actual history and checks the target venue’s current policy. Five local helper scripts require zsh and Python 3 without third-party Python packages; the citation candidate lookup uses Crossref/OpenAlex over the network and does not verify source text or argumentative support. Bilingual English and Chinese entrypoints, references, and documentation.</p>",
+  "creators": [
+    {
+      "name": "Shen, Cong",
+      "affiliation": "Tianyu Vision (TIANYU VISION); MA, History of Science, Tsinghua University"
+    }
+  ],
+  "keywords": [
+    "agent-skill",
+    "claude-code",
+    "humanities",
+    "academic-writing",
+    "voice-preservation",
+    "human-ai-collaboration",
+    "reflexive-writing",
+    "devil-advocate",
+    "argument-critique",
+    "history",
+    "philosophy",
+    "literary-criticism",
+    "cultural-studies",
+    "prompt-engineering",
+    "bilingual"
+  ],
+  "license": "CC-BY-NC-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "language": "mul",
+  "related_identifiers": [
+    {
+      "scheme": "url",
+      "identifier": "https://github.com/tizzy916/humanities-writing-companion",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    }
+  ],
+  "references": [
+    "Christou, P. A. (2026). Reconfiguring Reflexivity in the Era of AI: From 'Turning Back' to 'Looking Forward' Through Constructivist and Posthumanist Lenses. Qualitative Inquiry. https://doi.org/10.1177/10778004261445052",
+    "Wiles, F. (2025). Recursive Cognition in Practice: How AI Dialogue Generated and Analyzed Its Own Methodology. International Journal of Qualitative Methods. https://doi.org/10.1177/16094069251381709",
+    "Panke, S. (2025). How Can (A)I Research This? An Autoethnographic Exploration of Generative AI in Research, Teaching and Instructional Design. https://doi.org/10.1177/00224871251325065"
+  ],
+  "version": "5.1.0",
+  "publication_date": "2026-09-22"
+}
